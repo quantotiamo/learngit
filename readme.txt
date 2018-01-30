@@ -4,3 +4,4 @@ Git is very nice.
 I like Git.
 Hello World!
 2018-01-30 It's snowy
+It's very cold.
